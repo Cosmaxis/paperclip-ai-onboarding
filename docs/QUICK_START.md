@@ -4,7 +4,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/thinhngotony/paperclip-ai-onboarding.git
+git clone https://github.com/Cosmaxis/paperclip-ai-onboarding.git
 cd paperclip-ai-onboarding
 
 # Run setup (requires 9Router already installed)

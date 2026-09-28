@@ -67,7 +67,7 @@ DATABASE_URL=postgres://paperclip:paperclip@localhost:5434/paperclip
 ## Deployment
 
 ### Git Repository
-- **Remote:** git@github.com:thinhngotony/paperclip-ai-onboarding.git
+- **Remote:** git@github.com:Cosmaxis/paperclip-ai-onboarding.git
 - **Branch:** master
 - **Commit:** 76bad31 "Fix native deployment + 9Router integration for Paperclip"
 - **Status:** ✅ Pushed successfully
